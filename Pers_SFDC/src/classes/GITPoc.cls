@@ -1,7 +1,7 @@
 public class GITPoc {
 	
 	public GITPoc(){
-		system.debug('Prin OK');
+		system.debug('Print OK - Git');
 		String str='POC';
 	}
 }
